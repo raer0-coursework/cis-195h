@@ -1,8 +1,10 @@
-# CIS-195H <!-- omit from toc -->
+# CIS-195H <!-- omit in toc -->
+
 HTML and CSS
 
 ---
-## Table of Contents <!-- omit from toc -->
+
+## Table of Contents <!-- omit in toc -->
 
 - [Course Information](#course-information)
   - [Instructor](#instructor)
